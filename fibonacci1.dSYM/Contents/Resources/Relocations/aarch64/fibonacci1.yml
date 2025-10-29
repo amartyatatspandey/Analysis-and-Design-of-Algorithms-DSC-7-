@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/trickyoutlaw/Documents/Academic Material/SEM 3/ADA/fibonacci1'
+relocations:     []
+...
