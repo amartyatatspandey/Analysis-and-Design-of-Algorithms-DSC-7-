@@ -39,7 +39,7 @@ else {
        return 1+lcs(s1,s2,m-1,n-1,memo);
     }
     else{
-     max(lcs(s1,s2,m,n-1,memo),lcs(s1,s2,m-1,n,memo));   
+     return max(lcs(s1,s2,m,n-1,memo),lcs(s1,s2,m-1,n,memo));   
     }
 
 }
